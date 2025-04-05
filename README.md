@@ -24,29 +24,19 @@ Streamlit (if web-based interface is included)
 
 Tika / PyMuPDF / docx2txt (for file parsing)
 
-📁 Project Structure
-bash
-Copy
-Edit
-Resume-Analysis/
-│
-├── Resume Analyse.ipynb        # Main notebook with logic
-├── resumes/                    # Folder to store resume files
-├── skills.csv                  # Dataset of predefined skills (optional)
-├── requirements.txt            # Python dependencies
-└── README.md                   # You're reading it!
-🔧 How to Run
-Clone the repository
-git clone https://github.com/aarucodes/resume-analysis.git
+
+Clone the repository:
+
+  git clone https://github.com/aarucodes/resume-analysis.git
 
 Navigate to the directory
-cd resume-analysis
+  cd resume-analysis
 
 Install dependencies
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 Open the notebook
-jupyter notebook "Resume Analyse.ipynb"
+  jupyter notebook "Resume Analyse.ipynb"
 
 📌 Use Case
 HR teams at startups or large companies
