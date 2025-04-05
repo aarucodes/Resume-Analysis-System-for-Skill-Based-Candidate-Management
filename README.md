@@ -37,7 +37,7 @@ Resume-Analysis/
 └── README.md                   # You're reading it!
 🔧 How to Run
 Clone the repository
-git clone https://github.com/yourusername/resume-analysis.git
+git clone https://github.com/aarucodes/resume-analysis.git
 
 Navigate to the directory
 cd resume-analysis
